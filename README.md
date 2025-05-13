@@ -1,5 +1,10 @@
 # Olá!  Eu sou Fernando Torres.
 
+## Um pouco sobre minha jornada:
+
+Tenho 28 anos, cursei Análise e Desenvolvimento de Sistemas (mas parei no quarto semestre), sou desenvolvedor Java e Spring Boot. Tenho pouco mais de 1 ano de experiência, apoiei em desenvolvimento e manutenção de funcionalidades em sistemas legado ultilizando JavaEE, JSF e EJB. bastante experiência no uso de Eclipse e IntelliJ para integração com serviços REST e SOAP. Atuel também em desenvolvimento Front-end com Vue.js e JavaScript.
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FernandoTorresD&show_icons=true&theme=dark"
